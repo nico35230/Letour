@@ -1,5 +1,4 @@
 <?php
-echo "lol";
 
 class ajoutP {
 
