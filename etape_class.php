@@ -1,7 +1,12 @@
 <?php
 
+/*
+	Ca serait bien d'avoir une description de ce à quoi sert la classe ici
+*/
+
 class etape {
 
+	// Et une explication de la fonction ici
 	function liste()
 	{
 		$sql = "SELECT id, nom FROM etape";
@@ -16,15 +21,9 @@ class etape {
 			
 		}
 		
-		return $etape;
-	
-	
-	
-	
-	
+		return $etape;	
 	
 	}
-
 
 }
 ?>
