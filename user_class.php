@@ -31,7 +31,7 @@ class user {
 		
 		} else {
 		
-			print "Identification impossible";
+			return false;
 			
 		}
 		
