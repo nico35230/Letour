@@ -1,0 +1,13 @@
+<?php
+
+/*
+	Please replace with your settings and rename the file to settings_inc.php
+
+*/
+
+$database = "DATABASE_NAME";
+$host = "DATABASE_HOST";
+$user = "DATABASE_USER";
+$pass = "DATABASE_PASSWORD";
+
+?>
