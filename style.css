@@ -1,0 +1,228 @@
+body {
+	text-align: center;
+	}
+	
+.etape {
+	border: 2px solid black;
+	width: 200px;
+	height: 212px;
+	border-radius: 10px;
+	}
+	
+#etape {
+	display: inline-block;
+	margin-top: 100px;
+	width: 200px;
+	height: 212px;
+	text-align: center;
+	}
+	
+.equipe {
+	border: 2px solid black;
+	width: 200px;
+	height: 212px;
+	border-radius: 10px;
+	}
+	
+#equipe {
+	display: inline-block;
+	margin-left: 30px;
+	width: 200px;
+	height: 212px;
+	text-align: center;
+	}
+	
+.classement {
+	border: 2px solid black;
+	width: 200px;
+	height: 212px;
+	border-radius: 10px;
+	}
+	
+#classement {
+	display: inline-block;
+	margin-left: 30px;
+	width: 200px;
+	height: 212px;
+	text-align: center;
+	}
+	
+#prono_P {
+	background-image: url("images/bouton.jpg");
+	float: right;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	border-radius: 10px;
+	}
+	
+	
+#prono {
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 100px;
+	width: 200px;
+	height: 212px;
+	text-align: center;
+	}
+	
+.prono {
+	border: 2px solid black;
+	width: 200px;
+	height: 212px;
+	border-radius: 10px;
+	}	
+	
+#classement_prono {
+	background-image: url("images/bouton.jpg");
+	display: inline-block;
+	float: right;	
+	margin-bottom: 20px;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	border-radius: 10px;
+	}
+
+/*.classement_prono {
+	border: 2px solid black;
+	width: 200px;
+	height: 212px;
+	border-radius: 10px;
+	}*/
+	
+#retour {
+	background-image: url("images/bouton.jpg");
+	display: inline-block;
+	margin-top: 30px;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	border-radius: 10px;
+	}
+	
+/*#retourP {
+	background-image: url("images/bouton.jpg");
+	display: inline-block;
+	margin-top: 30px;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	border-radius: 10px;
+	}*/
+	
+#etape_suivante {
+	background-image: url("images/bouton.jpg");
+	display: inline-block;
+	float: right;
+	margin-top: 30px;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	border-radius: 10px;
+	}
+
+/*#etape_suivanteP {
+	background-image: url("images/bouton.jpg");
+	display: inline-block;
+	float: right;
+	margin-top: 30px;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	border-radius: 10px;
+	}	*/
+	
+#etape_pred {
+	background-image: url("images/bouton.jpg");
+	display: inline-block;
+	float: left;
+	margin-top: 30px;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	border-radius: 10px;
+	}
+	
+#classementE {
+	background-image: url("images/bouton.jpg");
+	display: inline-block;
+	float: right;	
+	margin-bottom: 20px;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	border-radius: 10px;
+	}
+	
+	
+.etape_image {
+	border-radius: 10px;
+	}
+	
+.equipe_image {
+	border-radius: 10px;
+	}
+	
+.classement_image {
+	border-radius: 10px;
+	}
+	
+.prono_image {
+	border-radius: 10px;
+	}
+
+.parcours{
+	display: block;
+	margin: 0 auto;
+	}
+
+.profil {
+	display: block;
+	margin: 0 auto; 
+	}
+	
+.der {
+	display: block;
+	margin: 0 auto; 
+	}
+
+.home {
+	border-radius: 10px;
+	margin: 50px 0;
+
+	}
+	
+.sombre {
+	background-color: #8b9ecd;
+	}
+
+.align {
+	text-align: center;
+	}
+
+table {
+	border-collapse: collapse;
+	margin-top: 100px;
+	width: 100%;
+	}
+
+thead {
+	background-color: #fde629;
+	}
+	
+td, th  {
+    border: 1px solid black;
+	}
+
+a {
+	text-decoration: none;
+	color: black;
+	}
+	
+li {
+	list-style-type:none;
+	}
+	
