@@ -42,36 +42,36 @@ require_once("pronostic_class.php");
 					<div class="etape">
 						<img src="images/map.jpg" class="etape_image" />			
 					</div>
+					<p>Etapes</p>
 				</a>
 				
-				<p>Etapes</p>
 			</section>
 			
 			<section id="equipe">
 				<a href="equipe.html">
-				<div class="equipe">
-					<img src="images/equipe.jpg" class="equipe_image" />			
-				</div>
+					<div class="equipe">
+						<img src="images/equipe.jpg" class="equipe_image" />			
+					</div>
+					<p>Equipes</p>
 				</a>
-				<p>Equipes</p>
 			</section>
 			
 			<section id="classement">
 				<a href="classement.html">
-				<div class="classement">
-					<img src="images/classement.jpg" class="classement_image" />			
-				</div>
+					<div class="classement">
+						<img src="images/classement.jpg" class="classement_image" />			
+					</div>
+					<p>Classement</p>
 				</a>
-				<p>Classement</p>
 			</section>	
 			
 			<section id="prono">
 				<a href="prono_fini.php">
-				<div class="prono">
-					<img src="images/prono.jpg" class="prono_image" />			
-				</div>
+					<div class="prono">
+						<img src="images/prono.jpg" class="prono_image" />			
+					</div>
+					<p>Pronostic</p>
 				</a>
-				<p>Pronostic</p>
 			</section>
 			
 		</content>
