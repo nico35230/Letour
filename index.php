@@ -30,7 +30,7 @@ require_once("pronostic_class.php");
 	</head>
 	<body>
 		<header>		
-			<img src="images/home.jpg" class="home"/><br />		
+			<img src="images/home.jpg" class="home" alt="Le Tour de France" /><br />		
 			
 			<?php print "Bienvenue " . $_SESSION["user_prenom"] . " (<a href='logout.php'>Déconnection</a>)"; ?>
 			
@@ -40,7 +40,7 @@ require_once("pronostic_class.php");
 			<section id="etape">
 				<a href="etape.html">
 					<div class="etape">
-						<img src="images/map.jpg" class="etape_image" />			
+						<img src="images/map.jpg" class="etape_image" alt="Etapes" />			
 					</div>
 					<p>Etapes</p>
 				</a>
@@ -50,7 +50,7 @@ require_once("pronostic_class.php");
 			<section id="equipe">
 				<a href="equipe.html">
 					<div class="equipe">
-						<img src="images/equipe.jpg" class="equipe_image" />			
+						<img src="images/equipe.jpg" class="equipe_image" alt="Equipes" />			
 					</div>
 					<p>Equipes</p>
 				</a>
@@ -59,7 +59,7 @@ require_once("pronostic_class.php");
 			<section id="classement">
 				<a href="classement.html">
 					<div class="classement">
-						<img src="images/classement.jpg" class="classement_image" />			
+						<img src="images/classement.jpg" class="classement_image" alt="Classement" />			
 					</div>
 					<p>Classement</p>
 				</a>
@@ -68,7 +68,7 @@ require_once("pronostic_class.php");
 			<section id="prono">
 				<a href="prono_fini.php">
 					<div class="prono">
-						<img src="images/prono.jpg" class="prono_image" />			
+						<img src="images/prono.jpg" class="prono_image" alt="Pronostic" />			
 					</div>
 					<p>Pronostic</p>
 				</a>
