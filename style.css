@@ -225,4 +225,43 @@ a {
 li {
 	list-style-type:none;
 	}
-	
+
+/* LOGIN FORM */
+body.login {
+	color: #666;
+	background-color: #eee;
+}
+body.login form {
+	overflow: hidden;
+	max-width: 20em;
+	margin: 2em auto;
+	padding: 2em 3em;
+	background-color: #fff;
+	border: 1px solid #ccc;
+}
+body.login form h1 {
+	display: none;
+}
+body.login form h2 {
+	margin: 0 0 2em;
+	font-size: 1em;	
+}
+body.login form br {
+	clear: both;
+}
+body.login form label {
+	float: left;
+	margin: 1em 0;
+	padding: 0;
+}
+body.login form input {
+	float: right;
+	margin: 1em 0;
+	padding: 0.5em;
+	border: 1px solid #ccc;
+	background-color: #f9f9f9;
+}
+.error {
+	color: red;
+	font-weight: bold;
+}
